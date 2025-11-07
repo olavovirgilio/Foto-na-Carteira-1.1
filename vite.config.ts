@@ -5,6 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Replace 'your-repo-name' with the actual name of your GitHub repository.
-  base: '/Foto-na-Carteira-1.1
-/', 
+  base: '/Foto-na-Carteira-1.1/', 
 })
